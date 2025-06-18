@@ -1,0 +1,40 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  grid-row-start: 2;
+}
+
+.pageHeader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 7.2rem;
+}
+
+.pageHeader h2 {
+  font-size: 6rem;
+  font-weight: 400;
+  color: #252020;
+}
+
+.pageHeader p {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 40px;
+  color: #252020;
+}
+
+@media (max-width:768px) {
+  .pageHeader {
+    padding: 1.6rem;
+  }
+  .pageHeader h2 {
+    font-size: 2.4rem;
+    margin-bottom: 16px;
+  }
+  .pageHeader p {
+    font-size: 1.6rem;
+    line-height: 22px;
+  }
+}
