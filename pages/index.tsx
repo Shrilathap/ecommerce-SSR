@@ -22,7 +22,7 @@ export const simplonNorm = localFont({
       style: 'normal',
     },
   ],
-  variable: '--font-simplon-norm', // optional
+  variable: '--font-simplon-norm',
 });
 
 

@@ -1,9 +1,8 @@
 .bannerWrapper {
   overflow: hidden;
   width: 100%;
-  background-color: #111; /* dark background */
+  background-color: #111;
   padding: 9px 0;
-  /* border-bottom: 2px solid #333; */
 }
 
 .scrollingTrack {
@@ -15,7 +14,7 @@
 .item {
   display: flex;
   align-items: center;
-  color: #EB4C6B; /* light red */
+  color: #EB4C6B;
   font-size: 1.2rem;
   min-width: 200px;
   font-weight: 400;
@@ -38,7 +37,6 @@
   white-space: nowrap;
 }
 
-/* Animation */
 @keyframes scroll-left {
   0% {
     transform: translateX(0);

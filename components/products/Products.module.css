@@ -7,7 +7,6 @@
 
 .sidebar {
   min-width: 180px;
-  /* border-right: 1px solid #ccc; */
   padding-right: 1rem;
 }
 
@@ -87,7 +86,6 @@
   border-color: black;
 }
 
-/* Option style inside the selectBox class only */
 .selectBox option {
   text-transform: uppercase;
 }
@@ -175,7 +173,6 @@
   padding-left: 2px;
 }
 
-/* styles/FilterSortMobile.module.css */
 
 .mobileContainer {
   display: none;

@@ -1,5 +1,5 @@
 'use client';
-import { useEffect, useRef } from 'react';
+import { useRef } from 'react';
 import styles from './TopRotatingBanner.module.css';
 import Image from 'next/image';
 

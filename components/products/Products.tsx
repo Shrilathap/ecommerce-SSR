@@ -1,4 +1,3 @@
-// components/ProductGallery.tsx
 import React, { useState } from 'react';
 import Image from 'next/image';
 import styles from '@/components/products/Products.module.css';
