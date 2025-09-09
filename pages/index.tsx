@@ -50,8 +50,8 @@ const Home: React.FC<HomeProps> = ({ products }) => {
   return (
     <>
       <Head>
-        <title>Appscript</title>
-        <meta name="description" content="Appscript test shopping page created with next js and css" />
+        <title>Ecommerce website</title>
+        <meta name="description" content="Ecommerce website shopping page created with next js and css" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="google-site-verification" content="TeBnN6qCY8bdXNC-l5lJOVgeaoVi6zCb5Obon_XEs2w" />
         <link rel="icon" href="/favicon.ico" />
